@@ -55,7 +55,7 @@ if __name__ == "__main__":
     print(data)
 def main(time_val):
     #time_val = sys.argv[1]
-    # print("hi welcome")
+    # print("hi welcome to Quantiphi")
     event = {
         "time": time_val
     }
